@@ -38,3 +38,9 @@ run/
 **/src/generated/**/.cache/
 repo/
 !**/src/**/repo/
+
+# Logs, crashes, and reference sources
+*.log
+hs_err_pid*
+server/
+/net/
